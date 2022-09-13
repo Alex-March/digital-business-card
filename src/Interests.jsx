@@ -7,7 +7,7 @@ function Interests() {
       <div className='interests-text'>
         <h2>Interests</h2>
         <p className='interests-content'>
-          React. JavaScript. Python. Music. Reader. Movies. Building things. Tennis. Volleyball.
+          React. JavaScript. Python. Finance. Music. Books. Movies. Building things. Tennis. Volleyball.
           Yoga. Meditation. Always seeking ways to improve my life.
         </p>
       </div>
