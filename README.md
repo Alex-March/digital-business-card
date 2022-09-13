@@ -1,6 +1,6 @@
 Can view the final result in the following link:
 
-willowy-jalebi-a8d647.netlify.app
+https://willowy-jalebi-a8d647.netlify.app/
 
 This is one of my first react projects, the goal of which is to build a digital business card, based
 on an alreadfy given Figma design, using React. The Figma design can be found using the following
